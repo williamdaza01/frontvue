@@ -1,0 +1,54 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.194",
+    "@types/node": "^18",
+    "@types/three": "^0.152.0",
+    "nuxt": "^3.5.0",
+    "vite-svg-loader": "^4.0.0",
+    "vue-i18n": "^9.2.2"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.2.96",
+    "@nuxtjs/google-fonts": "^3.0.0",
+    "@nuxtjs/vuetify": "^1.12.3",
+    "@pinia-plugin-persistedstate/nuxt": "^1.1.1",
+    "@pinia/nuxt": "^0.4.10",
+    "@tabler/icons-vue": "^2.19.0",
+    "@vee-validate/i18n": "^4.9.5",
+    "@vee-validate/nuxt": "^4.9.3",
+    "@vee-validate/rules": "^4.9.5",
+    "apexcharts": "^3.40.0",
+    "gsap": "^3.11.5",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "nuxt-snackbar": "^1.0.3",
+    "p5": "^1.6.0",
+    "pinia": "^2.0.36",
+    "sass": "^1.62.1",
+    "sass-loader": "^13.2.2",
+    "three": "^0.152.2",
+    "tsparticles": "^2.9.3",
+    "vanta": "^0.5.24",
+    "vee-validate": "^4.9.3",
+    "vite-plugin-vuetify": "^1.0.2",
+    "vue-kinesis": "^2.0.5",
+    "vue-tabler-icons": "^2.20.0",
+    "vue3-apexcharts": "^1.4.1",
+    "vue3-lottie": "^2.7.0",
+    "vue3-particles": "^2.9.3",
+    "vue3-perfect-scrollbar": "^1.6.1",
+    "vuetify": "^3.3.1"
+  },
+  "overrides": {
+    "vue": "latest"
+  }
+}

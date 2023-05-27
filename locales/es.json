@@ -1,0 +1,23 @@
+{
+  "hello": "Hola {name}",
+  "title": "Sistema de Información Misional",
+  "languages": "Idiomas",
+  "theme": "Tema",
+  "login": "Iniciar Sesión",
+  "logout": "Cerrar Sesión",
+  "error": "Error",
+  "pages": {
+    "auth": {
+      "forgot_password": "¿Olvidaste tu contraseña?",
+      "remember_password": "Recordar"
+    }
+  },
+  "inputs": {
+    "username": "Usuario",
+    "password": "Contraseña"
+  },
+  "buttons": {
+    "submit": "Enviar",
+    "reset": "Reiniciar"
+  }
+}

@@ -1,0 +1,25 @@
+@import "variables";
+@import "vuetify";
+@import './components/VButtons';
+@import './components/VCard';
+@import './components/VNavigationDrawer';
+@import './components/VShadow';
+@import "./layout/container";
+@import "./layout/sidebar";
+@import "./layout/card";
+@import "./layout/shadow";
+@import "./layout/auth";
+
+.lstick {
+  width: 2px;
+  background: rgb(var(--v-theme-primary));
+  height: 30px;
+  position: absolute;
+  left: 1px;
+  top: 40px;
+  transform: translate(-50%,-50%);
+}
+
+.text-muted {
+  color: rgb(var(--v-theme-muted)) !important;
+}

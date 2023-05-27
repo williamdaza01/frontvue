@@ -1,0 +1,9 @@
+{
+  "hello": "Olá {name}",
+  "languages": "Línguas",
+  "theme": "Tema",
+  "inputs": {
+    "username": "Nome de usuário",
+    "password": "Senha"
+  }
+}
